@@ -1,0 +1,73 @@
+.logo{
+    margin-left: 50px;
+    margin-right: 400px;
+}
+.frontOfLogo{
+     margin-left: 25px;
+     font-size: 21px;
+     
+}
+.firstborder{
+    height: 50px;
+    background-color: rgb(37, 164, 37);
+    margin-top: 20px;
+    
+}
+.firsttext{
+    margin-left: 500px;
+    display: inline-block;
+   
+    font-size: 21px;
+    color: white;
+    margin-top: 15px;
+}
+.firstBorderText{
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 21px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.imagetext{
+    
+    position: absolute;
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+   margin-left: 400px;
+   font-size: 25px;
+   color: white;
+    
+}
+.button {
+    color: #000000;
+    background-color: #39ac3b;
+    font-size: 20px;
+    border: 1px solid #2d63c8;
+    padding: 15px 50px;
+    cursor: pointer
+}
+.button:hover {
+    color: #2d63c8;
+    background-color: #b94d4d;
+}
+.recentpost{
+    margin-left: 650px;
+}
+.column1{
+    display: inline-block;
+    margin: 20px;
+    width: 400px;
+}
+.column1text{
+    font-size: 21px;
+    margin: 10px;
+    line-height: 30px
+}
+.page2text{
+    width: 1000px;
+    font-size: 21px;
+    line-height: 40px;
+    margin-left: 200px;
+}
